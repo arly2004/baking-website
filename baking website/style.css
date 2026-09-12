@@ -1,0 +1,393 @@
+body {
+    background-image: url('https://dl7.glitter-graphics.net/pub/1028/1028697ahsqselomu.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+
+h1 {
+    text-align: center;
+    color: #ff00d4;
+    font-family: "Times New Roman", serif;
+    font-size: 45px;
+
+}
+
+p {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.navigation {
+    text-align: center;
+    font-size: 19px;
+}
+
+.home-gif {
+    text-align: center;
+}
+
+
+.about-page {
+    background-image: url('https://dl7.glitter-graphics.net/pub/38/38847ts7clzsjly.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+
+.about-intro {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.hello {
+    text-align: center;
+    color: #ff0044;
+
+}
+
+.about-banner {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.gif-two {
+    position: absolute;
+    right: 200px;
+    top: 1px;
+}
+
+.gif-one {
+    position:absolute;
+    top: 9px;
+    left:700px
+   
+}
+
+.gif-three {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+.gif-four {
+    position: absolute;
+    top: 500px;
+    left: 500px;
+}
+
+
+
+.creations-page {
+    background-image: url('https://dl4.glitter-graphics.net/pub/2753/2753944x12kp3k0fz.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+
+.creations-intro {
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+.intro-page{
+ color: #ff0044;
+}
+
+.recipes-page {
+    background-image: url('https://dl.glitter-graphics.net/pub/590/590941r351ykwhz6.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+
+
+.recipe-title {
+    text-align: center;
+    font-size: 38px;
+    color: #ff00aa;
+}
+
+.diary-page {
+    background-image: url('https://dl2.glitter-graphics.net/pub/1011/1011682lx1qh28bcd.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+
+.diary-entry {
+    width: 80%;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+.diary-title {
+    text-align: center;
+    font-size: 38px;
+    color: purple;
+}
+
+.diary-gif {
+    position: relative;
+    top: -550px;
+    right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =========================
+   MOBILE VERSION
+   ========================= */
+
+@media (max-width: 600px) {
+
+    /* Make big headings smaller on phones */
+    h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    /* Make navigation fit better on phones */
+    .navigation {
+        font-size: 16px;
+        text-align: center;
+        line-height: 1.8;
+    }
+
+    /* Stop images and GIFs from being wider than the phone */
+    img {
+        max-width: 90%;
+        height: auto;
+    }
+
+    /* Make paragraphs fit the smaller screen */
+    p {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+.gif-one,
+.gif-two,
+.gif-three,
+.gif-four {
+    position: static;
+    display: block;
+    margin: 15px auto;
+    max-width: 70%;
+    height: auto; }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
